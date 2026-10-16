@@ -1,0 +1,6 @@
+{
+  "name": "Shram Setu 2.0 - Verified Digital Work & Wage Records",
+  "description": "Digital work pass, attendance verification, and wage protection platform for informal and daily-wage workers (Senior Bal Vigyan innovation, Indore MP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
